@@ -1,0 +1,6 @@
+DATA_FOLDER = 'data/'
+MODEL_FOLDER = 'model/'
+FILEPATH = DATA_FOLDER + 'ner_dataset.csv'
+BATCH_SIZE = 32
+EPOCHS = 5
+MODEL_PATH = MODEL_FOLDER + 'model.h5'
